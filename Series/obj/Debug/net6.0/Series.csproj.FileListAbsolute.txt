@@ -1,0 +1,15 @@
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.csproj.AssemblyReference.cache
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.AssemblyInfoInputs.cache
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.AssemblyInfo.cs
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.csproj.CoreCompileInputs.cache
+/Users/leticiafanandebarros/Desktop/Series/bin/Debug/net6.0/Series
+/Users/leticiafanandebarros/Desktop/Series/bin/Debug/net6.0/Series.deps.json
+/Users/leticiafanandebarros/Desktop/Series/bin/Debug/net6.0/Series.runtimeconfig.json
+/Users/leticiafanandebarros/Desktop/Series/bin/Debug/net6.0/Series.dll
+/Users/leticiafanandebarros/Desktop/Series/bin/Debug/net6.0/Series.pdb
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.dll
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/refint/Series.dll
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.pdb
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/Series.genruntimeconfig.cache
+/Users/leticiafanandebarros/Desktop/Series/obj/Debug/net6.0/ref/Series.dll
